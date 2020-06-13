@@ -53,6 +53,14 @@ post_date: 2020-06-03 16:11:19
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Sintra1.jpg" data-width="0" data-height="0" alt="Sintra1">			
 					<h5>Sintra Palace</h5>Palácio Nacional da Pena
 		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Bled-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Bled-scaled.jpg" data-width="2560" data-height="1280" alt="Bled">			
+					<h5>Lake Bled</h5>Slovenia
+		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/BotanicalG-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/BotanicalG-scaled.jpg" data-width="1737" data-height="2560" alt="BotanicalG">			
+					<h5>Greenery</h5>Botanical gardens Vienna
+		</a>
 <form action="/wp-admin/admin-ajax.php#wpcf7-f62-o1" method="post" novalidate="novalidate">
 <input type="hidden" name="_wpcf7" value="62" />
 <input type="hidden" name="_wpcf7_version" value="5.1.9" />
