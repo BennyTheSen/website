@@ -17,10 +17,6 @@ post_date: 2020-06-03 16:11:19
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Porto-scaled.jpg" data-width="2560" data-height="1280" alt="Porto">			
 					<h5>Porto Bridge</h5>Ponte Dom Luís I
 		</a>
-		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Wien-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
-				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Wien-scaled.jpg" data-width="2560" data-height="1280" alt="Wien">			
-					<h5>Beautiful Museum</h5>Natural History Museum, Vienna
-		</a>
 		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Burger_Lisbon-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Burger_Lisbon-scaled.jpg" data-width="1607" data-height="2560" alt="Burger_Lisbon">			
 					<h5>Burger</h5>Veganapati Lisbon
@@ -29,17 +25,13 @@ post_date: 2020-06-03 16:11:19
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Me_Riga_shopped_compressed.jpg" data-width="0" data-height="0" alt="Riga">			
 					<h5>Riga</h5>Riga old town view
 		</a>
-		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Sintra2-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
-				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Sintra2-scaled.jpg" data-width="1280" data-height="2560" alt="Sintra2">			
-					<h5>Initiation Well Sintra</h5>Quinta da Regaleira
-		</a>
 		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Nola-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Nola-scaled.jpg" data-width="2560" data-height="1280" alt="Nola Kitchen">			
 					<h5>Avocado Toast</h5>Nolas Kitchen Porto
 		</a>
-		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Bled-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
-				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Bled-scaled.jpg" data-width="2560" data-height="1280" alt="Bled">			
-					<h5>Lake Bled</h5>Slovenia
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Sintra2-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Sintra2-scaled.jpg" data-width="1280" data-height="2560" alt="Sintra2">			
+					<h5>Initiation Well Sintra</h5>Quinta da Regaleira
 		</a>
 		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Lisbon2-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Lisbon2-scaled.jpg" data-width="2560" data-height="1280" alt="Lisbon2">			
@@ -49,10 +41,6 @@ post_date: 2020-06-03 16:11:19
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Belem-scaled.jpg" data-width="2560" data-height="1280" alt="Belem">			
 					<h5>Belem Tower</h5>Torre de Belém
 		</a>
-		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Schönbrunn-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
-				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Schönbrunn-scaled.jpg" data-width="1280" data-height="2560" alt="Schönbrunn">			
-					<h5>Schönbrunn Palace</h5>Schönbrunn Palace, Vienna
-		</a>
 		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Lisbon-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Lisbon-scaled.jpg" data-width="2560" data-height="1280" alt="Lisbon">			
 					<h5>Lisbon Bridge</h5>Ponte 25 de Abril
@@ -61,25 +49,48 @@ post_date: 2020-06-03 16:11:19
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Porto2-scaled.jpg" data-width="2560" data-height="1280" alt="Porto2">			
 					<h5>Green City</h5>Porto in Green
 		</a>
-		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Pinsa-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
-				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Pinsa-scaled.jpg" data-width="1732" data-height="2560" alt="Pinsa">			
-					<h5>Pinsa</h5>Pinsa in Ljubljana
-		</a>
 		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Sintra1.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
 				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Sintra1.jpg" data-width="0" data-height="0" alt="Sintra1">			
 					<h5>Sintra Palace</h5>Palácio Nacional da Pena
 		</a>
-		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/BotanicalG-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
-				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/BotanicalG-scaled.jpg" data-width="1737" data-height="2560" alt="BotanicalG">			
-					<h5>Greenery</h5>Botanical gardens Vienna
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/castle-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/castle-scaled.jpg" data-width="2560" data-height="1280" alt="castle">			
+					<h5>Dunguaire Castle</h5>Dunguaire Castle, Ireland
 		</a>
-		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Strudel-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
-				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Strudel-scaled.jpg" data-width="1489" data-height="2560" alt="Strudel">			
-					<h5>Apple strudel</h5>Apple strudel in Vienna
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Dolmen-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Dolmen-scaled.jpg" data-width="1280" data-height="2560" alt="Dolmen">			
+					<h5>Poulnabrone-Dolmen</h5>Poulnabrone-Dolmen, Ireland
 		</a>
-		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Ljubjana-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
-				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Ljubjana-scaled.jpg" data-width="2560" data-height="1280" alt="Ljubjana">			
-					<h5>Ljubljana old town</h5>Ljubljana, Slovenia
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Falafel-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Falafel-scaled.jpg" data-width="2560" data-height="1801" alt="Falafel">			
+					<h5>Falafel-Wrap</h5>Falafel-Wrap in Dublin
+		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Galway-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Galway-scaled.jpg" data-width="2560" data-height="1280" alt="Galway">			
+					<h5>Galway, Ireland</h5>
+		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Guiness-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Guiness-scaled.jpg" data-width="2560" data-height="1280" alt="Guiness">			
+					<h5>Guiness</h5>Guiness Experience, Dublin
+		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Hummus.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Hummus.jpg" data-width="1822" data-height="1822" alt="Hummus">			
+					<h5>Falafel-Plate</h5>Falafel-Plate in Belfast
+		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Pizza.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Pizza.jpg" data-width="2436" data-height="1824" alt="Pizza">			
+					<h5>Pizza</h5>Pizza in Galway
+		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Trees-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Trees-scaled.jpg" data-width="2560" data-height="1280" alt="Trees">			
+					<h5>Dark Hedges</h5>Dark Hedges, North Ireland
+		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Trinity-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Trinity-scaled.jpg" data-width="2560" data-height="1280" alt="Trinity">			
+					<h5>Library</h5>The Long Room Of The Old Library At Trinity College
+		</a>
+		<a href="https://bennyjmueller.com/wp-content/uploads/2020/06/Trinity-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="4018527">
+				<img src="https://bennyjmueller.com/wp-content/uploads/2020/06/Trinity-scaled.jpg" data-width="2560" data-height="1280" alt="Trinity">			
 		</a>
 <form action="/wp-admin/admin-ajax.php#wpcf7-f62-o1" method="post" novalidate="novalidate">
 <input type="hidden" name="_wpcf7" value="62" />
