@@ -11,7 +11,7 @@ post_date: 2020-06-01 14:54:12
 <h2>Benny Müller</h2>		
 			<h2><i>Developer. Traveler.  Food Addict.</i></h2>		
 			<h2>About Me</h2>		
-			<p>under construction ...</p>		
+			Hey there. I'm Benny and this is my personal website, filled with stuff I do. I love to travel around (when theres no pandemic). Also I really enjoy cooking and even more eating good and vegetarian food. I'm a DevOps Enginerr and also do some projects in my freetime next to it.  Feel free to take a look around and see my projects, my pics and my Impossible List. For the very unlikely case you somehow found this website and you're not knowing me, nice to meet you kind stranger.  		
 				<a href="#films">
 								</a>
 				<h3>
