@@ -9,6 +9,7 @@ published: true
 post_date: 2020-06-03 16:11:20
 ---
 <h2>My Projects</h2>		
+		<p>This page will be filled with cool projects in the future. Until then follow me on <a href="https://github.com/BennyTheSen">GitHub.</a></p>		
 			<h2>Contact Me</h2>		
 <form action="/wp-admin/admin-ajax.php#wpcf7-f62-o1" method="post" novalidate="novalidate">
 <input type="hidden" name="_wpcf7" value="62" />
