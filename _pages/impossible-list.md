@@ -96,7 +96,7 @@ post_date: 2020-06-03 16:11:21
 			<h2>Contact Me</h2>		
 <form action="/wp-admin/admin-ajax.php#wpcf7-f62-o1" method="post" novalidate="novalidate">
 <input type="hidden" name="_wpcf7" value="62" />
-<input type="hidden" name="_wpcf7_version" value="5.2" />
+<input type="hidden" name="_wpcf7_version" value="5.2.1" />
 <input type="hidden" name="_wpcf7_locale" value="en_US" />
 <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f62-o1" />
 <input type="hidden" name="_wpcf7_container_post" value="0" />
